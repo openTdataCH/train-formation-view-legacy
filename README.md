@@ -1,5 +1,13 @@
 <a id="readme-top"></a>
 
+# ⚠️ **Repository Archived**
+
+This repository is no longer maintained and has been **archived** as of **22.Oct.2025**. 
+
+Please reffer to [train-formation-view](https://github.com/openTdataCH/train-formation-view) instead for the latest updates and active development.  
+
+----
+
 # [SKI+](https://opentransportdata.swiss/en/about-us/) | Swiss Train Formation Visualization
 
 <div align="center">
